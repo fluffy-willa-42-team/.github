@@ -1,1 +1,1 @@
-Ceci, est la team github de [Fluffy_Kaiju](https://github.com/Matthew-Dreemurr) et [willaCS](https://github.com/willaCS) pour l'ecole 19 ([42Network](https://42.fr/en/network-42/)) et autre projet perso.
+Ceci, est la team github de [Fluffy_Kaiju](https://github.com/Matthew-Dreemurr) et [willaCS](https://github.com/willaCS) pour [l'ecole 19](https://campus19.be/) ([42Network](https://42.fr/en/network-42/)) et autre projet perso.
